@@ -8,7 +8,6 @@ TABLE_NAME = "users"
 
 USERNAME = "test"
 PASSWORD = "JHFBdsyf2eg8*"
-
 session = requests.Session()
 
 def get_token_from_html(html):
